@@ -3,4 +3,6 @@ Application de gestion des tâches
 
 Fonctionnalités : 
 1. Une **fonctionnalité d'ajout de tâches**.
-2. 2. Une **fonctionnalité de suppression de tâches**. 
+2. 2. Une **fonctionnalité de suppression de tâches**.
+  
+Branche feature ajout : Ajouter une tache grace a la methode SuppressionTache()
